@@ -1,0 +1,4 @@
+/* Tailwin utility directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
